@@ -37,7 +37,7 @@ h1{
 .icon{
 	animation: float 1.5s ease-out infinite;
 	color: white;
-	font-size: 80px !important;
+	font-size: 100px !important;
 }
 
 .info{
@@ -99,7 +99,7 @@ h1{
 /*Animación*/
 @keyframes float {
 	50% {
-		transform: translate(0, 20px);
+		transform: translate(0, 50px);
 	}
 }
 
